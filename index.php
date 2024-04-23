@@ -55,6 +55,7 @@ if(isset($_SESSION['login'])){
         border: solid rgba(0, 0, 0, .15);
         border-width: 1px 0;
         box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+        // INI KOMENTAR
       }
 
       .b-example-vr {
